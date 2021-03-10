@@ -1,0 +1,6 @@
+.vs
+*.sln
+Library
+Logs
+Temp
+/ForwardRendering.sln
